@@ -1,0 +1,7 @@
+*.pkl
+*.csv
+*.xml
+*.idea
+*pycache*
+.ipynb_checkpoints
+*.ipynb
